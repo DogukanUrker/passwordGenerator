@@ -1,6 +1,6 @@
-# [passwordGenerator](https://dogukanurker.com/passwordgenerator)
+# [passwordGenerator 🔑](https://dogukanurker.com/passwordgenerator)
 
-Generate random passwords .
+Generate random passwords.
 <br/>
 [Contact](mailto:dogukanurker@icloud.com)<br/>
 [Dogukan Urker](https://dogukanurker.com)
