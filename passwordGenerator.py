@@ -1,5 +1,5 @@
 import random
-from characters import numbers, lowerCases, upperCases, specialCharacters
+from characters import numbers, lowerCases, upperCases, symbols
 
 
 def passwordGenerator(
@@ -7,7 +7,7 @@ def passwordGenerator(
     lowerCase=True,
     upperCase=True,
     number=True,
-    specialCharacter=True,
+    symbol=True,
 ):
     characters = []
     password = ""
@@ -23,9 +23,9 @@ def passwordGenerator(
         case True:
             for character in numbers:
                 characters.append(character)
-    match specialCharacter:
+    match symbol:
         case True:
-            for character in specialCharacters:
+            for character in symbols:
                 characters.append(character)
 
     while charaterCount != 0:
