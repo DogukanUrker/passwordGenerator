@@ -39,3 +39,13 @@ Enter an integer value for the password length and choose what your password wil
 Enter `python gui.py` to your terminal.
 
 ![GUI](/images/gui2.png)
+
+#### Contributors
+
+<a href="https://github.com/dogukanurker/passwordgenerator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dogukanurker/passwordgenerator" />
+</a>
+
+#### Support
+
+<a href="https://www.buymeacoffee.com/dogukanurker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
